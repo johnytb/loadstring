@@ -1,5 +1,5 @@
 ![Image alt](https://github.com/johnytb/script/blob/main/unnamed.png)
-# Script using information
+# Script using info
 
 ## 🌎Script works same in all country!
-### 🇷🇺Except in Russia u need VPN
+### 🇷🇺Except Russia (you need VPN)
